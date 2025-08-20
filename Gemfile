@@ -8,7 +8,7 @@ gem 'active_model_serializers', '~> 0.10.0'
 gem "bulma-rails", "~> 0.7.2"
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '~> 5.2.1'
+gem 'rails', '~> 7.1.5', '>= 7.1.5.2'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 # Use Puma as the app server
